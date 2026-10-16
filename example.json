@@ -1,0 +1,24 @@
+{
+  "labels": [
+    "unsupported",
+    "partial",
+    "supported"
+  ],
+  "rows": [
+    {
+      "id": "a",
+      "a": "supported",
+      "b": "partial"
+    },
+    {
+      "id": "b",
+      "a": "unsupported",
+      "b": "unsupported"
+    },
+    {
+      "id": "c",
+      "a": "supported",
+      "b": "supported"
+    }
+  ]
+}
